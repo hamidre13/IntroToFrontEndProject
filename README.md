@@ -28,7 +28,9 @@ Here is an example of how it looks:
 
 ![ResultImage](https://github.com/hamidre13/IntroToFrontEndProject/raw/master/result.png)
 
-## Once you completed the assignment, commit your changes and email me. You have until Monday April 26 to submit this assignment.
+* Once you completed the assignment, commit your changes and push your code to github.
+
+* ## Once done,Email me. You have until Monday April 26 to submit this assignment.
 
 
 
