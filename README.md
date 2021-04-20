@@ -22,5 +22,5 @@
 
 Here is an example of how it looks:
 
-
+![ResultImage](https://github.com/hamidre13/IntroToFrontEndProject/raw/master/result.png)
 
