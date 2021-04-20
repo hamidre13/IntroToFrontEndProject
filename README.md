@@ -1,4 +1,5 @@
 # HTML form data collection
+## Read all this document before starting to code.
 
 * Fork this repository privatly into your own github account
 * Add me as a collabroator to this repository.(you need my username hamidre13)
@@ -8,6 +9,9 @@
     * email
     * studentId
 * After user clicks on submit all the user input data should be convertod to object:
+
+__MAKE SURE TO PREVENT PAGE REFRESH ON THE FORM SUBMIT__
+
 ```
 {
     firstName:"Hamid",
@@ -23,4 +27,8 @@
 Here is an example of how it looks:
 
 ![ResultImage](https://github.com/hamidre13/IntroToFrontEndProject/raw/master/result.png)
+
+## Once you completed the assignment, commit your changes and email me. You have until Monday April 26 to submit this assignment.
+
+
 
