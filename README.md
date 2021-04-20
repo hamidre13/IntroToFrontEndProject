@@ -1,14 +1,14 @@
 # HTML form data collection
 ## Read all this document before starting to code.
 
-* Fork this repository privatly into your own github account
-* Add me as a collabroator to this repository.(you need my username hamidre13)
+* Fork this repository privately into your own github account
+* Add me as a collaborator to this repository.(you need my username hamidre13)
 * In the Html file add the following fields to the form
     * firstName
     * lastName
     * email
     * studentId
-* After user clicks on submit all the user input data should be convertod to object:
+* After user clicks on submit all the user input data should be converted to object:
 
 __MAKE SURE TO PREVENT PAGE REFRESH ON THE FORM SUBMIT__
 
@@ -22,7 +22,7 @@ __MAKE SURE TO PREVENT PAGE REFRESH ON THE FORM SUBMIT__
 ```
 
 
-* Then send the object to the showData function and you will be able to the information on the screen.
+* Then send the object to the showData function and you will be able to get the information on the screen.
 
 Here is an example of how it looks:
 
